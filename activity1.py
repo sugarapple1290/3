@@ -22,4 +22,3 @@ print(type(x))
 x=True 
 print(type(x))
 
-#
